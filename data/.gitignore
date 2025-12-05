@@ -1,0 +1,10 @@
+c2019_a_rv.csv
+c2020_a_rv.csv
+c2021_a_rv.csv
+c2022_a_rv.csv
+c2023_a_rv.csv
+degree_field.csv
+
+
+ # Ignore all CSV files in the data directory
+ *.csv
