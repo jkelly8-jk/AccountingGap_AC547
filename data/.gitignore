@@ -4,7 +4,10 @@ c2021_a_rv.csv
 c2022_a_rv.csv
 c2023_a_rv.csv
 degree_field.csv
-
+usa_00002.csv
+usa_00003.csv
+usa_00004.csv
+usa_00009.csv
 
  # Ignore all CSV files in the data directory
  *.csv
