@@ -1,4 +1,4 @@
-AC-547.project2-group11
+#AC-547.project2-group11
 Group 11- Julia Kelly, Stephanie Smith, Olivia Curl, Karlie Auer, Emma Korby Dr. Swanquist AC 547 12 November 2025 Data Analytics Final Project What is the problem/ topic?
 
 Our project will analyze the gap between the number of individuals who earn accounting degrees each year and the number who enter and remain in public accounting. Recent discussions in the profession highlight declining CPA pipelines, high turnover, demographic shifts, and changing preferences among new graduates. We want to quantify who is entering public accounting, who is not, and how characteristics such as age, gender, and demographic location relate to this trend. Why is this topic important?
